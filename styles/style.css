@@ -15,7 +15,6 @@
   flex-direction: column;
   justify-content: center;
   position: relative;
-  height: 100vh;
   min-height: 600px;
   max-height: 756px;
   background-color: #f2f2f2;
@@ -44,7 +43,7 @@
     line-height: 96px;
     font-size: 102px;
     font-weight: 600;
-    z-index: 2; 
+    z-index: 2;
     color:#000000;
 }
 
@@ -113,7 +112,6 @@
   width: 80%;
   margin-top: 100px;
   margin-bottom: 100px;
-  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -141,7 +139,7 @@
 
 .two-columns__paragraph {
   font-size: 24px;
-  line-height: 34px;  
+  line-height: 34px;
   margin-top: 0;
   margin-bottom: 0;
   color:#000000;
