@@ -5,4 +5,9 @@
     list-style-type: none;
     text-decoration: none;
     color: white;
+    transition: opacity 2s lianer;
+  }
+
+  .footer__column-link:hover {
+    opacity: .3;
   }
